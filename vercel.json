@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/LEPAS_OEM_Dashboard_POC.html" }
+  ]
+}
